@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database (if you use SQLite)
+*.db
+*.sqlite
+
+# Logs and temp files
+logs/
+tmp/
+*.log
+
+# FastAPI / Uvicorn
+uvicorn.log
